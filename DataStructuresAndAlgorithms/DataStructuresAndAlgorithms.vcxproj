@@ -81,6 +81,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="List.h" />
     <ClInclude Include="MaxSubSum.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="Tool.h" />
